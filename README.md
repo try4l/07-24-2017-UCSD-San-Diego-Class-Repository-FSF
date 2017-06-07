@@ -44,7 +44,7 @@ All videos can be found using this [insert link here]
 ## Important Links And Notes
 
 
-[Slack Room insert link here]
+[ucsd-bc-july2017.slack.com]
 
 -----------------------------------------
 
