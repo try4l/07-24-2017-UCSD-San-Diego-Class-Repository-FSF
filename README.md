@@ -36,7 +36,7 @@ You must give a full effort on every group and individual project.
 
 #### Class Videos
 
-All videos can be found using this [insert link here]
+All videos can be found using [here](http://ucsd.bootcampcontent.com/UCSD-Coding-Bootcamp/07-24-2017-UCSD-San-Diego-Class-Repository-FSF/blob/master/Recordings.md)
 
 -----------------------------------------
 
@@ -46,7 +46,7 @@ All videos can be found using this [insert link here]
 
 [Slack Room](https://ucsd-bc-july2017.slack.com)
 
-[Class Recordings](http://ucsd.bootcampcontent.com/UCSD-Coding-Bootcamp/07-24-2017-UCSD-San-Diego-Class-Repository-FSF/blob/master/Recordings.md)
+
 
 -----------------------------------------
 
