@@ -46,6 +46,8 @@ All videos can be found [here](http://ucsd.bootcampcontent.com/UCSD-Coding-Bootc
 
 [Slack Room](https://ucsd-bc-july2017.slack.com)
 
+[Class Activities & Slides] (http://ucsd.bootcampcontent.com/UCSD-Coding-Bootcamp/07-24-2017-UCSD-San-Diego-Class-Repository-FSF/tree/master)
+
 
 
 -----------------------------------------
