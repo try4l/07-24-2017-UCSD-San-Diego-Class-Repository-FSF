@@ -9,4 +9,8 @@
 
 [Week 1 - Thursday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed36824c-91c8-44f9-9bf4-8bf816eab305)
 
+[Week 1 - Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13914b37-08c2-46e0-8c0b-c1247a5cfcd0)
+
+
+### Week 2 - CSS/Bootstrap
 
