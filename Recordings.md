@@ -14,3 +14,5 @@
 
 ### Week 2 - CSS/Bootstrap
 
+[Week 2 - Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed36824c-91c8-44f9-9bf4-8bf816eab305)
+
