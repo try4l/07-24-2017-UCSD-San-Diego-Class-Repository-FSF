@@ -7,7 +7,7 @@
 
 [Day 1 - Going Live](./Going_Live.pptx)
 
-Day 2 -
+[Day 2 - Down & Dirtcy CSS](./DownDirtyCSS.pptx)
 
 Day 3 -
 
@@ -29,6 +29,17 @@ Day 3 -
 
 
 #### Day 2
+[07-CSSTypography](./Activities/07-CSSTypography)
+
+[08-GoogleFontDemo](./Activities/08-GoogleFontDemo)
+
+[09-Pseudoclass](./Activities/09-Pseudoclass)
+
+[10-WheresCSS](./Activities/10-WheresCSS)
+
+[11-BootstrapDemo](./Activities/11-BootstrapDemo)
 
 
 #### Day 3
+
+
