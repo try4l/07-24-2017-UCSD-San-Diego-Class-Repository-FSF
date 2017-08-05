@@ -19,9 +19,12 @@
 
 [Week 2 - Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a61a9e42-dedb-46b0-9745-86ac9ef9ef83)
 
-[Week 2 - Thursday - Sencond](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=696cd508-3221-4c94-a8fa-0a047a645a49)
+[Week 2 - Thursday - First Part](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=696cd508-3221-4c94-a8fa-0a047a645a49)
 
-[Week 2 - Thursday - Sencond](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a22bec6-42ab-44f0-b8b6-115d2f136e15)
+[Week 2 - Thursday - Second Part](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a22bec6-42ab-44f0-b8b6-115d2f136e15)
+
+[Week 2 - Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e064a82a-b2af-4c32-bb5e-ee499eb6d889)
+
 
 
 
