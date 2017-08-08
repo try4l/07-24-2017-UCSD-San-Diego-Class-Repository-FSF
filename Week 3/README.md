@@ -5,7 +5,7 @@
 
 ## Slides
 
-[Day 1 - Jors of JS](./JoysofJS.pptx)
+[Day 1 - Joys of JS](./JoysofJS.pptx)
 
 Day 2 -
 
