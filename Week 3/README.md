@@ -5,9 +5,9 @@
 
 ## Slides
 
-[Day 1 - Joys of JS](./JoysofJS.pptx)
+[Day 1 - JS Variables & If Statements](./JoysofJS.pptx)
 
-Day 2 -
+[Day 2 - JS Loops & RockerPaperScissors](./JumpingForJS.pptx)
 
 Day 3 -
 
@@ -47,4 +47,38 @@ Day 3 -
 
 #### Day 2
 
+[14-JSDissect](./Activities/14-JSDissect)
 
+[15-CoolPeopleArray](./Activities/15-CoolPeopleArray)
+
+[16-ArraySetting](./Activities/16-ArraySetting)
+
+[17-MyFirstLoop](./Activities/17-MyFirstLoop)
+
+[18-ZooLoop](./Activities/18-ZooLoop)
+
+[19-AnotherLoop](./Activities/19-AnotherLoop)
+
+[20-HardLoop](./Activities/20-HardLoop)
+
+[21-PseudoCode](./Activities/21-PseudoCode)
+
+[22-RPS-Coded](./Activities/22-RPS-Coded)
+
+[23-Recap](./Activities/23-Recap)
+
+[24-Events](./Activities/24-Events)
+
+
+#### Day 3
+
+25-LoopTV
+26-SuperheroLogging
+27-MyFirstFunctions
+28-GoodArray
+29-JoanOfArcArrays
+30-GandalfTheGreyObjects
+31-MyFirstObject
+32-CarGame
+33-Scope
+34-QuestionGame
