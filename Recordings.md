@@ -26,5 +26,7 @@
 [Week 2 - Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e064a82a-b2af-4c32-bb5e-ee499eb6d889)
 
 
+### Week 3 - Javascript
+[Week 3 - Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=71cb3a9e-b629-4160-8907-1877d824ff3b)
 
 
