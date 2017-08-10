@@ -31,4 +31,5 @@
 
 [Week 3 - Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4db11338-eb45-4669-9a8b-63c35ce10691)
 
+[Week 3 - Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0fca4cdd-038d-44e1-860d-8ebd3797b04e)
 
