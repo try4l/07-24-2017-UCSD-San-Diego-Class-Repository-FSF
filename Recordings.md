@@ -33,3 +33,11 @@
 
 [Week 3 - Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0fca4cdd-038d-44e1-860d-8ebd3797b04e)
 
+[Week 3 - Thursday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ac2630d2-d2b6-4f6b-a053-0639a52bb045)
+
+[Week 3 - Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2377cd0c-78a5-43bd-8629-da60d572ab81)
+
+
+
+
+
