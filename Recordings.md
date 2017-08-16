@@ -38,6 +38,11 @@
 [Week 3 - Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2377cd0c-78a5-43bd-8629-da60d572ab81)
 
 
+### Week 4 - jQuery
+[Week 4 - Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7e6202ed-172a-4042-ba7d-d3533932592c)
+
+
+
 
 
 
