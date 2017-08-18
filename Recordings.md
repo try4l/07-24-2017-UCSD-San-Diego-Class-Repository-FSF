@@ -41,6 +41,8 @@
 ### Week 4 - jQuery
 [Week 4 - Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7e6202ed-172a-4042-ba7d-d3533932592c)
 
+[Week 4 - Thursday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=84eb14a1-73f6-4c2d-828e-cd28126b8645)
+
 
 
 
