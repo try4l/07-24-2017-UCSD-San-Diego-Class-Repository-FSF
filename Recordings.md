@@ -39,9 +39,15 @@
 
 
 ### Week 4 - jQuery
+[Week 4 - Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e42d2bf4-84c9-44fb-8559-f06d0de834a3)
+
 [Week 4 - Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7e6202ed-172a-4042-ba7d-d3533932592c)
 
+[Week 4 - Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=594ef8f9-3aff-429e-accc-dd817fed51ac)
+
 [Week 4 - Thursday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=84eb14a1-73f6-4c2d-828e-cd28126b8645)
+
+[Week 4 - Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=31ed553a-1c1d-4f98-995b-ba98cc24dc86)
 
 
 
