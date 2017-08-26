@@ -2,12 +2,18 @@
 // =============================
 
 // This code will run as soon as the page loads
+<<<<<<< HEAD
 window.onload = function() {
+=======
+>>>>>>> d0d2062158d8b87034aa180e068ff9aa98305d56
   $("#lap").on("click", stopwatch.recordLap);
   $("#stop").on("click", stopwatch.stop);
   $("#reset").on("click", stopwatch.reset);
   $("#start").on("click", stopwatch.start);
+<<<<<<< HEAD
 };
+=======
+>>>>>>> d0d2062158d8b87034aa180e068ff9aa98305d56
 
 //  Variable that will hold our setInterval that runs the stopwatch
 var intervalId;

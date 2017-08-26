@@ -10,4 +10,8 @@
 
 * Have it send an alert when 5 seconds has passed, 10 seconds has passed and when the time is up.
 
+<<<<<<< HEAD
 * You will use this to time the break!
+=======
+
+>>>>>>> d0d2062158d8b87034aa180e068ff9aa98305d56

@@ -11,9 +11,18 @@ var audio = new Audio("raven.mp3");
 //  after 10 seconds, execute the tenSeconds function
 //  after 15 seconds, execute the timeUp function
 
+<<<<<<< HEAD
 setTimeout(fiveSeconds, 1000 * 5);
 setTimeout(tenSeconds, 1000 * 10);
 setTimeout(timeUp, 1000 * 15);
+=======
+setTimeout(fiveSeconds, 5000);
+setTimeout(tenSeconds, 10000);
+setTimeout(timeUp, 15000);
+setTimeout(function() {
+  alert("okay really done");
+}, 2000);
+>>>>>>> d0d2062158d8b87034aa180e068ff9aa98305d56
 
 //  Step 3:
 //  Fill in the blanks to these functions.

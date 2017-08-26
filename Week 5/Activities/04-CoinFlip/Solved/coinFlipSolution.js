@@ -4,6 +4,7 @@ var wins = 0;
 var losses = 0;
 
 function flipThatCoin(result) {
+<<<<<<< HEAD
 
   // STEP ONE:
   // Declare and initialize a variable named randomNumber to either 0 or 1. Make it random.
@@ -50,6 +51,25 @@ function flipThatCoin(result) {
     $("#win-lose").html("<h2>Loser!</h2>");
     $("#losses").html("<h3>" + losses + "</h3>");
   }
+=======
+    var randomNumber = Math.floor(Math.random() * 2);
+
+    if (randomNumber === 0) {
+      $("#coin-image").html("<img src='http://random-ize.com/coin-flip/us-quarter/us-quarter-front.jpg' />");
+    } else {
+      $("#coin-image").html("<img src='http://random-ize.com/coin-flip/us-quarter/us-quarter-back.jpg' />");
+    }
+
+    if (result === randomNumber) {
+      wins++;
+      $("#win-lose").html("<h2>Winner!</h2>");
+      $("#wins").html("<h3>" + wins + "</h3>");
+    } else {
+      losses++;
+      $("#win-lose").html("<h2>Loser!</h2>");
+      $("#losses").html("<h3>" + losses + "</h3>");
+    }
+>>>>>>> d0d2062158d8b87034aa180e068ff9aa98305d56
 }
 
 $("#heads").on("click", function() {
@@ -59,11 +79,14 @@ $("#heads").on("click", function() {
   flipThatCoin(0);
 });
 
+<<<<<<< HEAD
 //  STEP FOUR:
 //  Increment tailsCount by one.
 //  Find the span with an id of tails-chosen. Replace the html inside of the span with the tailsCount.
 //  Find the div with an id of guess. Update it with the word "Tails" bolded.
 //  Call the flipThatCoin function and pass value 1 into it.
+=======
+>>>>>>> d0d2062158d8b87034aa180e068ff9aa98305d56
 
 $("#tails").on("click", function() {
   tailsCount++;
