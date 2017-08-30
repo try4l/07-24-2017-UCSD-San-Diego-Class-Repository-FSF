@@ -62,9 +62,13 @@
 [Week 5 - Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=57c98a46-b111-46c2-b15f-64ae7b402dc5)
 
 
-### Week 5 - Javascript
+### Week 6 - Javascript
 
 [Week 6 - Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9f3c066-b35e-4e2f-ae79-88ee6367f22e)
+
+[Week 6 - Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a25df412-18d2-4ea1-8c7d-c6ac2b02287f)
+
+
 
 
 
