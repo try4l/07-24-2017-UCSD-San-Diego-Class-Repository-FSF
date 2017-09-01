@@ -68,6 +68,9 @@
 
 [Week 6 - Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a25df412-18d2-4ea1-8c7d-c6ac2b02287f)
 
+[Week 6 - Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3fefe4bd-49f0-4f0b-8cd3-8ddf8083f5b4)
+
+
 
 
 
