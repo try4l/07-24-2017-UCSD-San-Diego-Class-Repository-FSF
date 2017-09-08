@@ -72,6 +72,8 @@
 
 [Week 6 - Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bcc7d5d1-41b0-47c8-a6fe-bfdabcfdecaf)
 
+[Week 6 - Thursday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fd31ad44-eb61-44f0-9bda-4e446fbfe7f7)
+
 ### Week 7 - Javascript
 
 
