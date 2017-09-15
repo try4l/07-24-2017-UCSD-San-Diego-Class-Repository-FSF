@@ -78,4 +78,6 @@
 
 ### Week 7 - Javascript
 
+[Week 7 - Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3ab53ba8-eeb4-4cfb-b403-7fc6b74d7223)
+
 
