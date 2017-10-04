@@ -86,4 +86,7 @@
 
 [Week 8 - Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=625733dc-5215-489f-8436-a1fd8a9df05c)
 
+### Week 10
+[Week 10 - Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=59020e57-1615-46b0-8914-d5f6f567cfb6)
+
 
