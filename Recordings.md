@@ -94,6 +94,8 @@
 ### Week 11
 [Week 11 - Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de29327c-9417-454b-a773-c9028e42572c)
 
+[Week 11 - Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c094dca6-e381-4a33-91d6-5a647fd4ff90)
+
 
 
 
