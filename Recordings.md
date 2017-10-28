@@ -98,6 +98,8 @@
 
 [Week 12 - Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6dafecc-8520-4571-bf53-dc32394a305b)
 
+[Week 13 - Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e444fb7f-ea14-4c46-98ae-c615424b607a)
+
 
 
 
