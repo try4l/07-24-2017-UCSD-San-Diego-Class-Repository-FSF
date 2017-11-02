@@ -72,35 +72,71 @@
 
 [Week 6 - Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bcc7d5d1-41b0-47c8-a6fe-bfdabcfdecaf)
 
+[ - Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca9fd775-ea37-4155-b5b8-f32bc4469f58)
+
 [Week 6 - Thursday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fd31ad44-eb61-44f0-9bda-4e446fbfe7f7)
 
 [Week 6 - Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8abc4532-4465-4afe-aa49-ba2a1e8f7a73)
 
 ### Week 7 - Javascript
 
+[Week 7 - Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46fca53d-5ba2-4871-8da5-c6bb64263085)
+
 [Week 7 - Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3ab53ba8-eeb4-4cfb-b403-7fc6b74d7223)
 
-### Week 8
+[Week 7 - Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fef0935c-cccf-4114-ba18-69f2dc25b663)
+
+[Week 7 - Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=95f1687e-6669-42b2-81e7-43c3bbfdc383)
+
+### Week 8 - Project Work
 
 [Week 8 - Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9b3df46b-1f22-42bb-983e-6b5e9578720b)
 
 [Week 8 - Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=625733dc-5215-489f-8436-a1fd8a9df05c)
 
-### Week 10
+### Week 9 - Project Work
+
+### Week 10 - Node Intro
+
+[Week 10 - Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2a81b23d-2200-4193-a5f5-eb632b0b1546)
+
 [Week 10 - Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=59020e57-1615-46b0-8914-d5f6f567cfb6)
+
+[Week 10 - Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=331a75af-2966-4b7c-aa5e-bbc91e318f54)
 
 [Week 10 - Thursday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=28ecaeee-76a5-4ed3-abc1-2c6e8b8da32d)
 
-### Week 11
+[Week 10 - Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ebf219c9-0f71-4615-b296-8b01a5ea7212)
+
+### Week 11 - Advanced JS
+
+[Week 11 - Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ad2e54dd-93e3-4afa-942c-2923cadb59b8)
+
 [Week 11 - Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de29327c-9417-454b-a773-c9028e42572c)
+
+[Week 11 - Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a38bd86-10a8-4add-b983-6357448cacd8)
 
 [Week 11 - Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c094dca6-e381-4a33-91d6-5a647fd4ff90)
 
+### Week 12 - MySQL
+
+[Week 12 - Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6da88aa-741a-4d1b-b177-d15e8b62f1b8)
+
 [Week 12 - Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6dafecc-8520-4571-bf53-dc32394a305b)
+
+[Week 12 - Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=049904fe-7e01-4e19-b12b-d90eeaf1173a)
+
+[Week 12 - Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=07984b64-68ab-407d-bb14-3a0c947c0a10)
+
+### Week 13 - Express
+
+[Week 13 - Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8dc8a0ed-20ec-4cd9-9f6e-b2deb03c27f1)
 
 [Week 13 - Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e444fb7f-ea14-4c46-98ae-c615424b607a)
 
+[Week 13 - Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=21370596-f237-4c85-b797-10631d4a25ab)
 
+### Week 14 - Handlebars & ORM
 
-
+[Week 14 - Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de8b3f21-6d8e-415c-a562-a80d1f0d966b)
 
