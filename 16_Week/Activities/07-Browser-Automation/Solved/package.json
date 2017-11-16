@@ -1,0 +1,16 @@
+{
+  "name": "solutions",
+  "version": "1.0.0",
+  "description": "\"Solution\" for introduction to Nightmare.js.",
+  "main": "solution.js",
+  "scripts": {
+    "test": "node solution"
+  },
+  "author": "Peleke Sengstacke",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "nightmare": "^2.5.3"
+  }
+}
