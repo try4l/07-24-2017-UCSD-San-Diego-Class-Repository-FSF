@@ -140,3 +140,8 @@
 
 [Week 14 - Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de8b3f21-6d8e-415c-a562-a80d1f0d966b)
 
+[Week 16 - Thursday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=49154895-6560-4505-adc0-a445a0a199da)
+
+[Week 18 - Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed7bb7e6-60ee-4473-a029-939dedf24325)
+
+
