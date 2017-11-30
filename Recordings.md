@@ -140,3 +140,41 @@
 
 [Week 14 - Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de8b3f21-6d8e-415c-a562-a80d1f0d966b)
 
+[Week 14 - Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=21370596-f237-4c85-b797-10631d4a25ab)
+
+[Week 14 - Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ac89b5f5-eec3-4eb4-8d3a-8349ae94519a)
+
+### Week 15 - Sequelize
+
+[Week 15 - Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de8b3f21-6d8e-415c-a562-a80d1f0d966b)
+
+[Week 15 - Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=42db962c-be7f-4944-a0e5-f8842d058e35)
+
+[Week 15 - Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=90d1ffe0-eb22-4c43-bb57-39304012ceab)
+
+### Week 16 - Testing
+
+[Week 16 - Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f2d60012-7ef4-4fe3-a137-3832f321dd13)
+
+[Week 16 - Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=509e45f8-f344-46b0-b9fb-ab7dedcbcf1c)
+
+[Week 16 - Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de8b3f21-6d8e-415c-a562-a80d1f0d966b)
+
+### Week 17 - Project Preparation
+
+[Week 17 - Monday - No Lesson](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d0505585-c4fc-445c-b432-2cb8c96aeeaa)
+
+[Week 17 - Wednesday - No Lesson](#)
+
+[Week 17 - Saturday - No Lesson](#)
+
+### Week 18 - MongoDB
+
+[Week 18 - Monday - Presentations](#)
+
+[Week 18 - Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e4ecc1a0-95f7-42d7-86ce-de5a9859a4b7)
+
+[Week 18 - Saturday](#)
+
+
+
