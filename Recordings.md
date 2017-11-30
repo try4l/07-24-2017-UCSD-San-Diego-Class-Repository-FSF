@@ -158,6 +158,8 @@
 
 [Week 16 - Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=509e45f8-f344-46b0-b9fb-ab7dedcbcf1c)
 
+[Week 16 - Thursday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=49154895-6560-4505-adc0-a445a0a199da)
+
 [Week 16 - Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de8b3f21-6d8e-415c-a562-a80d1f0d966b)
 
 ### Week 17 - Project Preparation
@@ -172,9 +174,9 @@
 
 [Week 18 - Monday - Presentations](#)
 
+[Week 18 - Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed7bb7e6-60ee-4473-a029-939dedf24325)
+
 [Week 18 - Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e4ecc1a0-95f7-42d7-86ce-de5a9859a4b7)
 
 [Week 18 - Saturday](#)
-
-
 
