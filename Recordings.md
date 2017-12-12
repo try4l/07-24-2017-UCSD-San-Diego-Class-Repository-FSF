@@ -178,5 +178,14 @@
 
 [Week 18 - Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e4ecc1a0-95f7-42d7-86ce-de5a9859a4b7)
 
+[Week 18 - Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=14ed9c3a-6e0c-45a0-932e-05c73b50e086)
+
+### Week 19 - React
+
+[Week 19 - Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65c9350f-dcca-42a3-bbe1-1aa15abeecb7)
+
+[Week 19 - Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=71cc2d90-e491-4860-911f-c2b08a2bbb6d)
+
 [Week 18 - Saturday](#)
+
 
