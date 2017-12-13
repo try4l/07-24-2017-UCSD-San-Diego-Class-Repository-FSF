@@ -6,7 +6,8 @@ var mongoose = require("mongoose");
 // Our scraping tools
 // Axios is a promised-based http library, similar to jQuery's Ajax method
 // It works on the client and on the server
-var axios = require("axios");
+//var axios = require("axios");
+var request = require("request");
 var cheerio = require("cheerio");
 
 // Require all models
@@ -38,7 +39,8 @@ mongoose.connect("mongodb://localhost/week18Populater", {
 // A GET route for scraping the echojs website
 app.get("/scrape", function(req, res) {
   // First, we grab the body of the html with request
-  axios.get("http://www.echojs.com/").then(function(response) {
+  //axios.get("http://www.echojs.com/").then(function(response) {
+  request.get("http://www.echojs.com/").then(function(response) {
     // Then, we load that into cheerio and save it to $ for a shorthand selector
     var $ = cheerio.load(response.data);
 
